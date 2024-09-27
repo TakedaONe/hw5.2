@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "hw5.1"
+rootProject.name = "Love_Calculator"
 include(":app")
  
